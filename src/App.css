@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container {
+  max-width: 1440px;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 4px;
+}
